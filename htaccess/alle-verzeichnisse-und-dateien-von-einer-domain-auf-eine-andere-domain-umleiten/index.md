@@ -2,7 +2,7 @@
 
 Möchte man alle Verzeichnisse und Dateien von Domain A nach Domain B umleiten, dann muss man dazu auf Domain A eine .htaccess-Datei mit folgendem Inhalt anlegen:
 
-```
+```apache_conf
 RedirectPermanent / http://www.domain-b.de/
 ```
 
