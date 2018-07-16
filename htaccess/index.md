@@ -8,4 +8,4 @@ title: .htaccess
 - Benutzerdefinierte Fehlerseiten
 - Download von PDF-Dateien erzwingen
 - MIME-Type für manifest-Dateien setzen
-- Rewrite
+- [Rewrite](rewrite/)
