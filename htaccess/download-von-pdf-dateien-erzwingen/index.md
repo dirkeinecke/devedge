@@ -13,5 +13,5 @@ AddType application/octet-stream .pdf
 
 ### Weiterführende Informationen
 
-- [Apache Module mod_mime: AddType Directive](https://httpd.apache.org/docs/trunk/mod/mod_mime.html#addtype)
-- [Apache-Kernfunktionen: ForceType-Direktive](https://httpd.apache.org/docs/trunk/mod/core.html#forcetype)
+- [Apache Module mod_mime: AddType Directive](https://httpd.apache.org/docs/trunk/mod/mod_mime.html#addtype){:target="_blank"}
+- [Apache-Kernfunktionen: ForceType-Direktive](https://httpd.apache.org/docs/trunk/mod/core.html#forcetype){:target="_blank"}
