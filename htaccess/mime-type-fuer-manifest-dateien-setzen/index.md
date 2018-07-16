@@ -4,7 +4,7 @@ Wenn man zum Beispiel WebApps für das iPhone oder den iPod touch als Offline-An
 dann muss man dazu eine .manifest-Datei erstellen. Damit diese auch mit dem text/cache-manifest MIME-Type
 vom Webserver ausgeliefert werden, muss man in eine .htaccess-Datei folgenden Eintrag machen:
 
-```apache_conf
+```
 AddType text/cache-manifest .manifest
 ```
 
