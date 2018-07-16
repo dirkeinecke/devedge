@@ -4,7 +4,7 @@ Das folgende Beispiel zeigt, wie man alle Aufrufe ohne "`www`" (`http://domain.d
 Domain mit "`www`" (`http:/www.domain.de`) umleiten kann. Dabei müssen Aufrufe über "`http`"
 und "`https`" gesondert behandelt werden.
 
-```apache_conf
+```
 RewriteEngine on
 
 RewriteCond %{HTTPS} off
