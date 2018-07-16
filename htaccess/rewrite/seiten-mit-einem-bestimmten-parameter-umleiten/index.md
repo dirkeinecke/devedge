@@ -1,6 +1,6 @@
 ## Seiten mit einem bestimmten Parameter umleiten
 
-```apache_conf
+```
 Options +FollowSymlinks
 RewriteEngine On
 
