@@ -1,3 +1,7 @@
+---
+title: .htaccess
+---
+
 ## .htaccess
 
 - Alle Verzeichnisse und Dateien von einer Domain auf eine andere Domain umleiten
