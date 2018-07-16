@@ -10,4 +10,4 @@ AddType text/cache-manifest .manifest
 
 ### Weiterführende Informationen
 
-- [HTML 5 Offline Application Cache](https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/SafariJSDatabaseGuide/OfflineApplicationCache/OfflineApplicationCache.html)
+- [HTML 5 Offline Application Cache](https://developer.apple.com/library/archive/documentation/iPhone/Conceptual/SafariJSDatabaseGuide/OfflineApplicationCache/OfflineApplicationCache.html){:target="_blank"}
