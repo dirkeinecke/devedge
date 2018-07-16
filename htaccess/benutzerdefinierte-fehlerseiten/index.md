@@ -14,4 +14,4 @@ ErrorDocument 500 /Fehlerseiten/500.html
 
 ### Weiterführende Informationen
 
-- [Apache HTTP Server - ErrorDocument-Direktive](http://httpd.apache.org/docs/2.0/mod/core.html#errordocument)
+- [Apache HTTP Server - ErrorDocument-Direktive](https://httpd.apache.org/docs/2.0/mod/core.html#errordocument)
