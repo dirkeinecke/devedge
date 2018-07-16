@@ -7,3 +7,5 @@ Seite "Mac DevEdge" dazugekommen (AppleScript, Defaults).
 
 Falls Du irgendwo einen Fehler findest oder eine bessere Lösung parat hast, dann schreib mir doch einfach eine E-Mail
 (E-Mail-Adresse steht im Impressum).
+
+- [.htaccess](htaccess)
