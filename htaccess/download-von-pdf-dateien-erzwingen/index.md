@@ -3,7 +3,7 @@
 Wenn man den Download von PDF-Dateien erzwingen möchte,
 dann mus man folgende Zeile der .htaccess-Datei hinzufügen:
 
-```apache_conf
+```
 AddType application/octet-stream .pdf
 <FilesMatch "\.(PDF|pdf)$" >
   ForceType application/octet-stream
