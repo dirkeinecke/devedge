@@ -1,6 +1,6 @@
 ## iPod touch Umleitung mit einer .htaccess-Datei
 
-```apache_conf
+```
 Options +FollowSymlinks
 RewriteEngine On
 
