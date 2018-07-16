@@ -6,4 +6,4 @@ Möchte man alle Verzeichnisse und Dateien von Domain A nach Domain B umleiten, 
 RedirectPermanent / http://www.domain-b.de/
 ```
 
-Somit werden dann alle Aufrufe von zum Beispiel http://www.domain-a.de/ordner-1/datei-2.html nach http://www.domain-b.de/ordner-1/datei-2.html umgeleitet.
+Somit werden dann alle Aufrufe von zum Beispiel `http://www.domain-a.de/ordner-1/datei-2.html` nach `http://www.domain-b.de/ordner-1/datei-2.html` umgeleitet.
