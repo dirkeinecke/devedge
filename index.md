@@ -9,3 +9,11 @@ Falls Du irgendwo einen Fehler findest oder eine bessere Lösung parat hast, dan
 (E-Mail-Adresse steht im Impressum).
 
 - [.htaccess](htaccess)
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
