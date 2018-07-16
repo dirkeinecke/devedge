@@ -5,7 +5,7 @@ dann kann man dies über eine .htaccess-Datei erledigen. Man braucht dazu nur di
 Zeilen in die .htaccess-Datei einfügen - und die Pfade zu den Dateien die angezeigt werden
 sollen natürlich noch anpassen.
 
-```apache_conf
+```
 ErrorDocument 401 /Fehlerseiten/401.html
 ErrorDocument 403 /Fehlerseiten/403.html
 ErrorDocument 404 /Fehlerseiten/404.html
