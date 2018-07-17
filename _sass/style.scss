@@ -1,6 +1,10 @@
 @import "bootstrap";
 @import "rouge-github";
 
+h2 {
+  margin-bottom: 1rem;
+}
+
 code, pre {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color: #333;
