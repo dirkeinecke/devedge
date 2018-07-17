@@ -15,4 +15,7 @@ Falls Du irgendwo einen Fehler findest oder eine bessere Lösung parat hast, dan
   <div class="col-12 col-md-6 col-lg-4">
     <a itemprop="url" class="btn btn-light btn-lg btn-block pt-4 pb-4 border-bottom" href="robots-txt" role="button">robots.txt</a>
   </div>
+  <div class="col-12 col-md-6 col-lg-4">
+    <a itemprop="url" class="btn btn-light btn-lg btn-block pt-4 pb-4 border-bottom" href="css" role="button">CSS</a>
+  </div>
 </div>
