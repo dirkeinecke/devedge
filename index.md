@@ -9,19 +9,19 @@ Falls Du irgendwo einen Fehler findest oder eine bessere Lösung parat hast, dan
 (E-Mail-Adresse steht im Impressum).
 
 <div class="row mt-4">
-  <div class="col-12 col-md-4 col-lg-2 mb-4">
+  <div class="col-12 col-md-4 col-lg-3 mb-4">
     <a itemprop="url" class="btn btn-light btn-lg btn-block pt-4 pb-4 border-bottom" href="htaccess" role="button">.htaccess</a>
   </div>
-  <div class="col-12 col-md-4 col-lg-2 mb-4">
+  <div class="col-12 col-md-4 col-lg-3 mb-4">
     <a itemprop="url" class="btn btn-light btn-lg btn-block pt-4 pb-4 border-bottom" href="robots-txt" role="button">robots.txt</a>
   </div>
-  <div class="col-12 col-md-4 col-lg-2 mb-4">
+  <div class="col-12 col-md-4 col-lg-3 mb-4">
     <a itemprop="url" class="btn btn-light btn-lg btn-block pt-4 pb-4 border-bottom" href="css" role="button">CSS</a>
   </div>
-  <div class="col-12 col-md-4 col-lg-2 mb-4">
+  <div class="col-12 col-md-4 col-lg-3 mb-4">
     <a itemprop="url" class="btn btn-light btn-lg btn-block pt-4 pb-4 border-bottom" href="javascript" role="button">JavaScript</a>
   </div>
-  <div class="col-12 col-md-4 col-lg-2 mb-4">
+  <div class="col-12 col-md-4 col-lg-3 mb-4">
     <a itemprop="url" class="btn btn-light btn-lg btn-block pt-4 pb-4 border-bottom" href="jquery" role="button">jQuery</a>
   </div>
 </div>
