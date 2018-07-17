@@ -8,6 +8,6 @@ if (window.navigator.standalone == false) {
 }
 ```
 
-###Weiterführende Informationen
+### Weiterführende Informationen
 
 - [Safari HTML Reference - Supported Meta Tags (apple-mobile-web-app-capable)](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html){:target="_blank"}
