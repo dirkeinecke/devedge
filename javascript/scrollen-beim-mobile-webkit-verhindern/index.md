@@ -2,6 +2,7 @@
 
 Das folgende Beispiel zeigt, wie man das Schollen beim Mobile Webkit verhindern kann.
 
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -15,3 +16,4 @@ Das folgende Beispiel zeigt, wie man das Schollen beim Mobile Webkit verhindern 
   <body>
   </body>
 </html>
+```
