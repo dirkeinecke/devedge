@@ -6,4 +6,4 @@
 
 ### Weiterführende Informationen
 
-- [jQuery-Website](){:target="_blank"}
+- [jQuery-Website](http://jquery.com/){:target="_blank"}
