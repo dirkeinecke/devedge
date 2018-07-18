@@ -4,7 +4,7 @@ Möchte man einen Ajax-Request mit jQuery synchron durchführen, kann man dies �
 
 ```javascript
 $.ajaxSetup({
-    async:false
+  async:false
 });
 ```
 
