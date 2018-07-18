@@ -4,7 +4,7 @@ Das folgende Beispiel zeigt, wie man die Adresszeile bei WebApps fürs iPhone be
 
 ```javascript
 if (window.navigator.standalone == false) {
-    window.scrollTo(0, 1);
+  window.scrollTo(0, 1);
 }
 ```
 
