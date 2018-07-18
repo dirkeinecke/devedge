@@ -1,6 +1,6 @@
 ## Dialoge
 
-- [Dialoge mit dynamischen Button-Namen](http://www.devedge.de/jquery-ui/dialoge/dialoge-mit-dynamischen-button-namen)
+- [Dialoge mit dynamischen Button-Namen](dialoge-mit-dynamischen-button-namen)
 
 ### Weiterführende Informationen
 
