@@ -1,9 +1,18 @@
 @import "bootstrap";
 @import "rouge-github";
 
+h1 {
+  font-size: 1.5rem;
+}
+
 h2 {
+  font-size: 1rem;
   margin-bottom: 1.3rem;
   border-bottom: 1px solid #eaecef;
+}
+
+h3 {
+  font-size: 0.8rem;
 }
 
 code, pre {
