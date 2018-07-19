@@ -11,6 +11,10 @@
   {{ pagePathParts[i] }}
 {% endfor %}
 
+{% for page in site.pages %}
+  {{ page.path }}
+{% endfor %}
+
 ```javascript
 var error_dialog_buttons = {};
 error_dialog_buttons[lang.ok] = function() {
