@@ -9,7 +9,7 @@
 
 {% assign comparePathWithoutFilename = "" %}
 {% for i in (0..size) %}
-  {% comparePathWithoutFilename | append: pagePathParts[i] | append: "/" %}
+  {% assign comparePathWithoutFilename | append: pagePathParts[i] | append: "/" %}
   {% assign p = comparePathWithoutFilename | append: "index.md" %}
   {% for page in site.pages %}
     {% if page.path == p %}
