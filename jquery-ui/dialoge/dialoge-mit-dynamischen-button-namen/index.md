@@ -10,6 +10,7 @@
 {% for i in (0..size) %}
   {% for page in site.pages %}
     {% assign p = pagePathParts[i] | append: "/index.md" %}
+    {{ p }}
     {% if page.path == p %}
       {{ page.path }}
     {% endif %}
