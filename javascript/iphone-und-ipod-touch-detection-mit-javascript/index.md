@@ -1,3 +1,7 @@
+---
+title: iPhone und iPod touch Detection mit JavaScript
+---
+
 ## iPhone und iPod touch Detection mit JavaScript
 
 ```html
