@@ -1,3 +1,7 @@
+---
+title: Ajax-Request synchron durchführen
+---
+
 ## Ajax-Request synchron durchführen
 
 Möchte man einen Ajax-Request mit jQuery synchron durchführen, kann man dies über `$.ajaxSetup` wie folgt festlegen:
