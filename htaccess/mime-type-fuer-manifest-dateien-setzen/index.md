@@ -1,3 +1,7 @@
+---
+title: MIME-Type für manifest-Dateien setzen
+---
+
 ## MIME-Type für manifest-Dateien setzen
 
 Wenn man zum Beispiel WebApps für das iPhone oder den iPod touch als Offline-Anwendung erstellen möchte,
