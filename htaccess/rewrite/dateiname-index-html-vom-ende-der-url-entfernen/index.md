@@ -1,3 +1,7 @@
+---
+title: Dateiname index.html vom Ende der URL entfernen
+---
+
 ## Dateiname index.html vom Ende der URL entfernen
 
 ```
