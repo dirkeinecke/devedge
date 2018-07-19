@@ -1,3 +1,7 @@
+---
+title: Microsoft Internet Explorer gibt Wert des "src"-Attributs bei Abfrage des "href"-Attributs bei Bildern aus
+---
+
 ## Microsoft Internet Explorer gibt Wert des "src"-Attributs bei Abfrage des "href"-Attributs bei Bildern aus
 
 ### Testumgebung
