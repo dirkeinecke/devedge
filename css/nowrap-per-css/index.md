@@ -1,3 +1,7 @@
+---
+title: nowrap per CSS
+---
+
 ## nowrap per CSS
 
 Mit der folgenden CSS-Angabe kann man den Zeilenumbruch verhindern.
