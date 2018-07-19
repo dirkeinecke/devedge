@@ -3,16 +3,21 @@
 {% assign pagePathParts = page.path | split: "/" %}
 {% assign size = pagePathParts.size | minus: 3 %}
 
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
 {% assign comparePathWithoutFilename = "" %}
 {% for i in (0..size) %}
   {% assign comparePathWithoutFilename = comparePathWithoutFilename | append: pagePathParts[i] | append: "/" %}
   {% assign p = comparePathWithoutFilename | append: "index.md" %}
   {% for page in site.pages %}
     {% if page.path == p %}
-      {{ page.path }}
+      <li class="breadcrumb-item"><a href="{{ page.path }}">{{ page.title }}</a></li>
     {% endif %}
   {% endfor %}
 {% endfor %}
+  </ol>
+</nav>
+
 
 ```javascript
 var error_dialog_buttons = {};
