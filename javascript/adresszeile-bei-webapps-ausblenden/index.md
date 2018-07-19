@@ -1,3 +1,7 @@
+---
+title: Adresszeile bei WebApps ausblenden
+---
+
 ## Adresszeile bei WebApps ausblenden
 
 Das folgende Beispiel zeigt, wie man die Adresszeile bei WebApps fürs iPhone beziehungsweise für den iPod touch per JavaScript ausblenden kann:
