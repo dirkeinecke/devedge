@@ -1,3 +1,7 @@
+---
+title: Prüfen ob einen Zeichenkette mit einer bestimmten Zeichenkette endet
+---
+
 ## Prüfen ob einen Zeichenkette mit einer bestimmten Zeichenkette endet
 
 Das folgende Beispiel zeigt wie man prüfen kann, ob eine Zeichenkette (String) mit einer bestimmten Zeichenkette (String) endet.
