@@ -1,3 +1,7 @@
+---
+title: jQuery UI
+---
+
 ## jQuery UI
 
 - [Dialoge](dialoge)
