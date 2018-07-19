@@ -1,3 +1,7 @@
+---
+title: Seiten mit einem bestimmten Parameter umleiten
+---
+
 ## Seiten mit einem bestimmten Parameter umleiten
 
 ```
