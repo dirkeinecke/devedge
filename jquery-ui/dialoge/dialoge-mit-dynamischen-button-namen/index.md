@@ -1,5 +1,3 @@
-## Dialoge mit dynamischen Button-Namen
-
 {% assign pagePathParts = page.path | split: "/" %}
 {% assign size = pagePathParts.size | minus: 3 %}
 
@@ -19,6 +17,7 @@
   </ol>
 </nav>
 
+## Dialoge mit dynamischen Button-Namen
 
 ```javascript
 var error_dialog_buttons = {};
