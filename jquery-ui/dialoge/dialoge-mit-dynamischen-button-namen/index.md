@@ -2,6 +2,12 @@
 
 {{ page.path }}
 
+{% assign pagePathParts = page.path | split: "/" %}
+{% assign length = pagePathParts | minus: 1 %}
+{% for i in (0..length) %}
+  {{ pagePathParts[i] }}
+{% endfor %}
+
 ```javascript
 var error_dialog_buttons = {};
 error_dialog_buttons[lang.ok] = function() {
