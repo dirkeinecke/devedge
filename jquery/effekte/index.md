@@ -1,3 +1,7 @@
+---
+title: Effekte
+---
+
 ## Effekte
 
 - [Weiches Scrollen zu einem bestimmten Element](weiches-scrollen-zu-einem-bestimmten-element)
