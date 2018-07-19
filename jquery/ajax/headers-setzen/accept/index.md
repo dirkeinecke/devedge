@@ -1,3 +1,7 @@
+---
+title: Accept
+---
+
 ## Accept
 
 Den Accept-Header kann man für einen Ajax-Request mit jQuery so setzen:
