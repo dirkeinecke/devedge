@@ -1,3 +1,7 @@
+---
+title: Bilder vorausladen
+---
+
 ## Bilder vorausladen
 
 Das folgende Beispiel zeigt, wie man Bilder vorausladen (preloading) kann.
