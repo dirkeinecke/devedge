@@ -3,7 +3,7 @@
 {{ page.path }}
 
 {% assign pagePathParts = page.path | split: "/" %}
-{% assign size = pagePathParts.size | minus: 1 %}
+{% assign size = pagePathParts.size | minus: 3 %}
 
 {{ size }}
 
