@@ -1,3 +1,7 @@
+---
+title: Box-Shadow
+---
+
 ## Box-Shadow
 
 Mit den folgenden CSS-Angaben (CSS3) kann man Block-Level-Elementen (zum Beispiel <div>) einen Schatten geben.
