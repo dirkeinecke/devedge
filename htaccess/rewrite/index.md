@@ -1,3 +1,7 @@
+---
+title: Rewrite
+---
+
 ## Rewrite
 
 - [Dateiname index.html vom Ende der URL entfernen](dateiname-index-html-vom-ende-der-url-entfernen)
