@@ -1,3 +1,7 @@
+---
+title: Weiches Scrollen zu einem bestimmten Element
+---
+
 ## Weiches Scrollen zu einem bestimmten Element
 
 Das folgende Beispiel zeigt, wie man programmiertechnisch mittels der Effekte von jQuery
