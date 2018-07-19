@@ -1,3 +1,7 @@
+---
+title: setTimeout() mit anonymer Funktion
+---
+
 ## setTimeout() mit anonymer Funktion
 
 Das folgende Beispiel zeigt die Verwendung einer anonymen Funktion innerhalb von `setTimeout()`.
