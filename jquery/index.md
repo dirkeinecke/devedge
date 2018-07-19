@@ -1,3 +1,7 @@
+---
+title: jQuery
+---
+
 ## jQuery
 
 - [Ajax](ajax)
