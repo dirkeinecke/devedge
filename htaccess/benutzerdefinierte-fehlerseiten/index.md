@@ -1,3 +1,7 @@
+---
+title: Benutzerdefinierte Fehlerseiten
+---
+
 ## Benutzerdefinierte Fehlerseiten
 
 Möchte man selbst definieren, welche Dateien bei bestimmten Fehlern angezeigt werden,
