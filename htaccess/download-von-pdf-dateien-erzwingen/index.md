@@ -1,3 +1,7 @@
+---
+title: Download von PDF-Dateien erzwingen
+---
+
 ## Download von PDF-Dateien erzwingen
 
 Wenn man den Download von PDF-Dateien erzwingen möchte,
