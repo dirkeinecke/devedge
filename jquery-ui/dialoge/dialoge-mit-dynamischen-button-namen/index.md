@@ -9,13 +9,14 @@
 
 {% for i in (0..size) %}
   {% for page in site.pages %}
+    {{ pagePathParts[i] | append: "/index.md" }}
     {% if page.path == pagePathParts[i] | append: "/index.md" %}
       {{ page.path }}
     {% endif %}
   {% endfor %}
 {% endfor %}
 
-1
+2
 
 ```javascript
 var error_dialog_buttons = {};
