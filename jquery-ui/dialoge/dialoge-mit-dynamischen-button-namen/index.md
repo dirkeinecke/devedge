@@ -1,11 +1,7 @@
 ## Dialoge mit dynamischen Button-Namen
 
-{{ page.path }}
-
 {% assign pagePathParts = page.path | split: "/" %}
 {% assign size = pagePathParts.size | minus: 3 %}
-
-{{ size }}
 
 {% assign comparePathWithoutFilename = "" %}
 {% for i in (0..size) %}
@@ -17,8 +13,6 @@
     {% endif %}
   {% endfor %}
 {% endfor %}
-
-4
 
 ```javascript
 var error_dialog_buttons = {};
