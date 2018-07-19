@@ -1,3 +1,7 @@
+---
+title: Glow-Effekt
+---
+
 ## Glow-Effekt
 
 Mit der folgenden CSS-Angabe erreicht man einen Glow-Effekt:
