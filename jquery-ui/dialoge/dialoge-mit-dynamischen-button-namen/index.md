@@ -1,3 +1,7 @@
+---
+title: Dialoge mit dynamischen Button-Namen
+---
+
 ## Dialoge mit dynamischen Button-Namen
 
 ```javascript
