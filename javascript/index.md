@@ -1,3 +1,7 @@
+---
+title: JavaScript
+---
+
 ## JavaScript
 
 - [Adresszeile bei WebApps ausblenden](adresszeile-bei-webapps-ausblenden)
