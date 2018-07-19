@@ -1,8 +1,8 @@
 {% assign pagePathParts = page.path | split: "/" %}
 {% assign size = pagePathParts.size | minus: 3 %}
 
-<nav aria-label="breadcrumb" class="pt-1 pb-1 pl-1 pr-1 mb-4">
-  <ol class="breadcrumb">
+<nav aria-label="breadcrumb" class="mb-4">
+  <ol class="breadcrumb pt-1 pb-1 pl-1 pr-1 ">
     <li class="breadcrumb-item"><a href="{{ "/" | relative_url }}">Home</a></li>
     {% assign comparePathWithoutFilename = "" %}
     {% for i in (0..size) %}
