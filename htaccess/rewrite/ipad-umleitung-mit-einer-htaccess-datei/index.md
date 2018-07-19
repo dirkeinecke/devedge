@@ -1,3 +1,7 @@
+---
+title: iPad Umleitung mit einer .htaccess-Datei
+---
+
 ## iPad Umleitung mit einer .htaccess-Datei
 
 ```
