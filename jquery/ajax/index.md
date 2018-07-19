@@ -1,3 +1,7 @@
+---
+title: Ajax
+---
+
 ## Ajax
 
 - [Ajax-Request synchron durchführen](ajax-request-synchron-durchfuehren)
