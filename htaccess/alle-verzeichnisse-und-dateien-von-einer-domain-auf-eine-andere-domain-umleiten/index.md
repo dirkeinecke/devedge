@@ -1,3 +1,7 @@
+---
+title: Alle Verzeichnisse und Dateien von einer Domain auf eine andere Domain umleiten
+---
+
 ## Alle Verzeichnisse und Dateien von einer Domain auf eine andere Domain umleiten
 
 Möchte man alle Verzeichnisse und Dateien von Domain A nach Domain B umleiten, dann muss man dazu auf Domain A eine .htaccess-Datei mit folgendem Inhalt anlegen:
