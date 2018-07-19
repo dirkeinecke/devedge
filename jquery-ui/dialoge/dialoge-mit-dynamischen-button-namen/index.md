@@ -1,5 +1,7 @@
 ## Dialoge mit dynamischen Button-Namen
 
+{{ page.path }}
+
 ```javascript
 var error_dialog_buttons = {};
 error_dialog_buttons[lang.ok] = function() {
