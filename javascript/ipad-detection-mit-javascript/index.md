@@ -1,3 +1,7 @@
+---
+title: iPad Detection mit JavaScript
+---
+
 ## iPad Detection mit JavaScript
 
 ```html
