@@ -1,3 +1,7 @@
+---
+title: nicht-www auf www umleiten
+---
+
 ## nicht-www auf www umleiten
 
 Das folgende Beispiel zeigt, wie man alle Aufrufe ohne "`www`" (`http://domain.de`) auf die
