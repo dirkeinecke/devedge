@@ -5,6 +5,7 @@
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
+    <li class="breadcrumb-item" href="{{ "/" | relative_url }}">Home</li>
 {% assign comparePathWithoutFilename = "" %}
 {% for i in (0..size) %}
   {% assign comparePathWithoutFilename = comparePathWithoutFilename | append: pagePathParts[i] | append: "/" %}
