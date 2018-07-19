@@ -1,3 +1,7 @@
+---
+title: Android-Gerät mit JavaScript erkennen
+---
+
 ## Android-Gerät mit JavaScript erkennen
 
 Das folgende Beispiel zeigt, wie man von ein Android-Gerät mit JavaScript erkennen kann.
