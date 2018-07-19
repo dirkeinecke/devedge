@@ -7,17 +7,18 @@
 
 {{ size }}
 
+{% assign comparePathWithoutFilename = "" %}
 {% for i in (0..size) %}
+  {% comparePathWithoutFilename | append: pagePathParts[i] | append: "/" %}
+  {% assign p = comparePathWithoutFilename | append: "index.md" %}
   {% for page in site.pages %}
-    {% assign p = pagePathParts[i] | append: "/index.md" %}
-    {{ p }}
     {% if page.path == p %}
       {{ page.path }}
     {% endif %}
   {% endfor %}
 {% endfor %}
 
-3
+4
 
 ```javascript
 var error_dialog_buttons = {};
