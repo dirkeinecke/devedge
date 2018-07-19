@@ -1,3 +1,7 @@
+---
+title: CSS
+---
+
 ## CSS
 
 - [<hr> formatieren](hr-formatieren)
