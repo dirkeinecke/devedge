@@ -3,8 +3,11 @@
 {{ page.path }}
 
 {% assign pagePathParts = page.path | split: "/" %}
-{% assign length = pagePathParts | minus: 1 %}
-{% for i in (0..length) %}
+{% assign size = pagePathParts.size | minus: 1 %}
+
+{{ size }}
+
+{% for i in (0..size) %}
   {{ pagePathParts[i] }}
 {% endfor %}
 
