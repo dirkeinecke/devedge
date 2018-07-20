@@ -14,7 +14,7 @@
           {% if i < compareSize %}
             <li class="breadcrumb-item"><a href="{{ page.path | relative_url | remove: "/index.md" }}">{{ page.title }}</a></li>
           {% else %}
-            <li class="breadcrumb-item">{{ page.title }}</li>
+            <li class="breadcrumb-item">{{ page.title | truncate: 40 }}</li>
           {% endif %}
         {% endif %}
       {% endfor %}
