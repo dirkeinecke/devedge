@@ -7,18 +7,18 @@ title: if-Anweisung
 *Inhalt*
 
 - [Beispiel #1 - numerische Gleichheit](#beispiel-1---numerische-gleichheit)
-- [Beispiel #2 - numerische Ungleichheit]()
-- [Beispiel #3 - Gleichheit von Zeichenketten]()
-- [Beispiel #4 - Ungleichheit von Zeichenketten]()
-- [Beispiel #5 - numerisch kleiner als]()
-- [Beispiel #6 - numerisch größer als]()
-- [Beispiel #7 - kleiner als bei Zeichenketten]()
-- [Beispiel #8 - größer als bei Zeichenketten]()
-- [Beispiel #9 - numerisch kleiner/gleich]()
-- [Beispiel #10 - numerisch größer/gleich]()
-- [Beispiel #11 - kleiner/gleich bei Zeichenketten]()
-- [Beispiel #12 - größer/gleich bei Zeichenketten]()
-- [Weitere logische Operatoren]()
+- [Beispiel #2 - numerische Ungleichheit](#beispiel-2---numerische-ungleichheit)
+- [Beispiel #3 - Gleichheit von Zeichenketten](#beispiel-3---gleichheit-von-zeichenketten)
+- [Beispiel #4 - Ungleichheit von Zeichenketten](#beispiel-4---ungleichheit-von-zeichenketten)
+- [Beispiel #5 - numerisch kleiner als](#beispiel-5---numerisch-kleiner-als)
+- [Beispiel #6 - numerisch größer als](#beispiel-6---numerisch-größer-als)
+- [Beispiel #7 - kleiner als bei Zeichenketten](#beispiel-7---kleiner-als-bei-zeichenketten)
+- [Beispiel #8 - größer als bei Zeichenketten](#beispiel-8---größer-als-bei-zeichenketten)
+- [Beispiel #9 - numerisch kleiner/gleich](#beispiel-9---numerisch-kleinergleich)
+- [Beispiel #10 - numerisch größer/gleich](#beispiel-10---numerisch-größergleich)
+- [Beispiel #11 - kleiner/gleich bei Zeichenketten](#beispiel-11---kleinergleich-bei-zeichenketten)
+- [Beispiel #12 - größer/gleich bei Zeichenketten](#beispiel-12---größergleich-bei-zeichenketten)
+- [Weitere logische Operatoren](#weitere-logische-operatoren)
 
 ### Beispiel #1 - numerische Gleichheit
 
