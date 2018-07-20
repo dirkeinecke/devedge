@@ -3,22 +3,22 @@
   <meta name="robots" content="index,follow,noodp,noydir">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ page.description }}">
-  <meta name="publisher" content="{{ page.author }}">
-  <meta property="og:site_name" content="{{ page.title }}">
-  <meta property="og:title" content="{{ page.title }}">
-  <meta itemprop="name" content="{{ page.title }}">
-  <meta property="og:description" content="{{ page.description }}">
-  <meta itemprop="description" content="{{ page.description }}">
+  <meta name="description" content="{{ page.description | xml_escape }}">
+  <meta name="publisher" content="{{ page.author | xml_escape }}">
+  <meta property="og:site_name" content="{{ page.title | xml_escape }}">
+  <meta property="og:title" content="{{ page.title | xml_escape }}">
+  <meta itemprop="name" content="{{ page.title | xml_escape }}">
+  <meta property="og:description" content="{{ page.description | xml_escape }}">
+  <meta itemprop="description" content="{{ page.description | xml_escape }}">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:url" content="{{ site.baseurl }}{{ page.url | remove: '/index.html' }}">
-  <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{{ page.description }}">
+  <meta name="twitter:title" content="{{ page.title | xml_escape }}">
+  <meta name="twitter:description" content="{{ page.description | xml_escape }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.baseurl }}{{ page.url | remove: '/index.html' }}">
   <link rel="alternate" hreflang="de" href="{{ site.baseurl }}{{ page.url | remove: '/index.html' }}">
   <link rel="canonical" href="{{ site.baseurl }}{{ page.url | remove: '/index.html' }}">
-  <title>{{ page.title }}</title>
+  <title>{{ page.title | xml_escape }}</title>
   <script src="{{ "/assets/js/jquery.slim.min.js" | relative_url }}"></script>
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   <script src="{{ "/assets/js/bootstrap.min.js" | relative_url }}"></script>
