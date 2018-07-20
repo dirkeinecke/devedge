@@ -2,7 +2,6 @@
 {% assign size = pagePathParts.size | minus: 1 %}
 
 <nav aria-label="breadcrumb" class="mb-4">
-<!--  pt-1 pb-1 pl-3 pr-3 -->
   <ol class="breadcrumb pt-0 pr-0 pb-0 pl-0 bg-transparent">
     <li class="breadcrumb-item"><a href="{{ "/" | relative_url }}">Home</a></li>
     {% assign comparePathWithoutFilename = "" %}
@@ -11,11 +10,10 @@
       {% assign p = comparePathWithoutFilename | append: "index.md" %}
       {% for page in site.pages %}
         {% if page.path == p %}
-          {{ i }} - {{ size | minus: 1 }}
-          {% if i < (size | minus: 1) %}
-            <li class="breadcrumb-item"><a href="{{ page.path | relative_url | remove: "/index.md" }}">{{ page.title }}</a></li>
-          {% else %}
+          {% if i == (size | minus: 1) %}
             <li class="breadcrumb-item">{{ page.title }}</li>
+          {% else %}
+            <li class="breadcrumb-item"><a href="{{ page.path | relative_url | remove: "/index.md" }}">{{ page.title }}</a></li>
           {% endif %}
         {% endif %}
       {% endfor %}
@@ -23,4 +21,4 @@
   </ol>
 </nav>
 
-1
+2
