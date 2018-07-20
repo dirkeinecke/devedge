@@ -10,10 +10,11 @@
       {% assign p = comparePathWithoutFilename | append: "index.md" %}
       {% for page in site.pages %}
         {% if page.path == p %}
-          {% if i == (size | minus: 1) %}
-            <li class="breadcrumb-item">{{ page.title }}</li>
-          {% else %}
+          {% assign compareSize = size | minus: 1 %}
+          {% if i < compareSize %}
             <li class="breadcrumb-item"><a href="{{ page.path | relative_url | remove: "/index.md" }}">{{ page.title }}</a></li>
+          {% else %}
+            <li class="breadcrumb-item">{{ page.title }}</li>
           {% endif %}
         {% endif %}
       {% endfor %}
@@ -21,4 +22,4 @@
   </ol>
 </nav>
 
-2
+3
