@@ -6,7 +6,7 @@ title: if-Anweisung
 
 *Inhalt*
 
-- [Beispiel #1 - numerische Gleichheit]()
+- [Beispiel #1 - numerische Gleichheit](#beispiel-1---numerische-gleichheit)
 - [Beispiel #2 - numerische Ungleichheit]()
 - [Beispiel #3 - Gleichheit von Zeichenketten]()
 - [Beispiel #4 - Ungleichheit von Zeichenketten]()
