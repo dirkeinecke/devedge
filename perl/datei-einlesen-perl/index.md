@@ -15,7 +15,7 @@ $datei = 'testdatei.txt';
 
 open IN, $datei or die "Kann $datei nicht zum Lesen oeffnen: $!";
 while ($zeile = <IN>) {
-    print $zeile;
+  print $zeile;
 }
 close IN;
 ```
