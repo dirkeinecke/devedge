@@ -5,7 +5,7 @@ title: .htaccess
 ## .htaccess
 
 {{ assign pagePath = page.path | remove: "/index.md" }}
-{{ assign pagePath = "/" | append pagePath | append "/" }}
+{{ assign pagePath = "/" | append: pagePath | append: "/" }}
 {{ pagePath }}
 
 {% for page in site.pages %}
