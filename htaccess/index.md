@@ -4,10 +4,11 @@ title: .htaccess
 
 ## .htaccess
 
+{{ page.path }}
 {{ assign pagePath = page.path | remove: "index.md" | prepend: "/" }}
 {{ pagePath }}
 
-2
+3
 
 {% for page in site.pages %}
   {% if page.path contains pagePath %}
