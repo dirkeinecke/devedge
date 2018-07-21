@@ -7,16 +7,18 @@ title: .htaccess
 {% assign originPagePath = page.path %}
 {% assign originPagePathParts = page.path | split: "/" %}
 {% assign originSize = originPagePathParts.size %}
+{{ originSize }}
 {% assign pagePath = page.path | remove: "index.md" %}
 {{ pagePath }}
 
-8
+9
 
 {% for page in site.pages %}
   {% if page.path != originPagePath %}
     {% if page.path contains pagePath %}
       {% assign pagePathParts = page.path | split: "/" %}
       {% assign size = pagePathParts.size %}
+      {{ size }}
       {% if size <= originSize %}
         {{ page.path }}
       {% endif %}
