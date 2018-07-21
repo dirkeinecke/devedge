@@ -4,14 +4,17 @@ title: .htaccess
 
 ## .htaccess
 
+{% assign originPagePath = page.path %}
 {% assign pagePath = page.path | remove: "index.md" %}
 {{ pagePath }}
 
-6
+7
 
 {% for page in site.pages %}
-  {% if page.path contains pagePath %}
-    {{ page.path }}
+  {% if page.path != originPagePath %}
+    {% if page.path contains pagePath %}
+      {{ page.path }}
+    {% endif %}
   {% endif %}
 {% endfor %}
 
