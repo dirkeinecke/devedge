@@ -7,10 +7,11 @@ title: .htaccess
 {% assign pagePath = page.path | remove: "index.md" %}
 {{ pagePath }}
 
-5
+6
 
 {% for page in site.pages %}
   {% if page.path contains pagePath %}
+    {{ page.path }}
   {% endif %}
 {% endfor %}
 
