@@ -19,6 +19,7 @@ title: .htaccess
       {% assign pagePathParts = page.path | split: "/" %}
       {% assign size = pagePathParts.size %}
       {{ size }}
+{{ page.path }}
       {% if size <= originSize %}
         {{ page.path }}
       {% endif %}
