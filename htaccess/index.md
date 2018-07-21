@@ -4,7 +4,7 @@ title: .htaccess
 
 ## .htaccess
 
-{{ assign pagePath = page.path | remove: "index.md" }}
+{% assign pagePath = page.path | remove: "index.md" %}
 {{ pagePath }}
 
 5
