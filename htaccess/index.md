@@ -7,6 +7,8 @@ title: .htaccess
 {{ assign pagePath = page.path | remove: "index.md" | prepend: "/" }}
 {{ pagePath }}
 
+2
+
 {% for page in site.pages %}
   {% if page.path contains pagePath %}
   {% endif %}
