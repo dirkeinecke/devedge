@@ -5,15 +5,21 @@ title: .htaccess
 ## .htaccess
 
 {% assign originPagePath = page.path %}
+{% assign originPagePathParts = page.path | split: "/" %}
+{% assign originSize = originPagePathParts.size %}
 {% assign pagePath = page.path | remove: "index.md" %}
 {{ pagePath }}
 
-7
+8
 
 {% for page in site.pages %}
   {% if page.path != originPagePath %}
     {% if page.path contains pagePath %}
-      {{ page.path }}
+      {% assign pagePathParts = page.path | split: "/" %}
+      {% assign size = pagePathParts.size %}
+      {% if size <= originSize %}
+        {{ page.path }}
+      {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}
