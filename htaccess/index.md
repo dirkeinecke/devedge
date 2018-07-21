@@ -21,7 +21,7 @@ title: .htaccess
       {{ size }}
 {{ page.path }}
       {% if size <= originSize %}
-        {{ page.path }}
+        -> {{ page.path }}
       {% endif %}
     {% endif %}
   {% endif %}
