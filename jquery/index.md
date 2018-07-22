@@ -4,9 +4,7 @@ title: jQuery
 
 ## jQuery
 
-- [Ajax](ajax)
-- [Aus iFrame auf Parent-Dokument referenzieren](aus-iframe-auf-parent-dokument-referenzieren)
-- [Effekte](effekte)
+{% include toc.html %}
 
 ### Weiterführende Informationen
 
