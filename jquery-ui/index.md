@@ -4,7 +4,7 @@ title: jQuery UI
 
 ## jQuery UI
 
-- [Dialoge](dialoge)
+{% include toc.html %}
 
 ### Weiterführende Informationen
 
