@@ -16,7 +16,7 @@ title: .htaccess
       {% assign pagePathParts = page.path | split: "/" %}
       {% assign size = pagePathParts.size | minus: 1 %}
       {% if size <= originSize %}
-        <li>{{ page.path }}</li>
+        <li><a href="{{ page.path | relative_url | remove: "/index.md" }}">{{ page.title | xml_escape }}</a></li>
       {% endif %}
     {% endif %}
   {% endif %}
