@@ -4,4 +4,4 @@ title: Headers setzen
 
 ## Headers setzen
 
-- [Accept](accept)
+{% include toc.html %}
