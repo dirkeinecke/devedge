@@ -4,8 +4,7 @@ title: Ajax
 
 ## Ajax
 
-- [Ajax-Request synchron durchführen](ajax-request-synchron-durchfuehren)
-- [Headers setzen](headers-setzen)
+{% include toc.html %}
 
 ### Weiterführende Information
 
