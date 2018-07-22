@@ -5,7 +5,8 @@
 {% assign pagePath = page.path | remove: "index.md" %}
 
 <ul>
-  {% for page in site.pages %}
+  {% assign sorted_pages = site.pages | sort:"path" %}
+  {% for page in sorted_pages %}
     {% if page.path != originPagePath %}
       {% if page.path contains pagePath %}
         {% assign pagePathParts = page.path | split: "/" %}
