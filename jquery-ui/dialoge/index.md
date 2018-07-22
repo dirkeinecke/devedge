@@ -4,7 +4,7 @@ title: Dialoge
 
 ## Dialoge
 
-- [Dialoge mit dynamischen Button-Namen](dialoge-mit-dynamischen-button-namen)
+{% include toc.html %}
 
 ### Weiterführende Informationen
 
