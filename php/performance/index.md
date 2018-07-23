@@ -4,4 +4,4 @@ title: Performance
 
 ## Performance
 
-{% include: toc.html %}
+{% include toc.html %}
