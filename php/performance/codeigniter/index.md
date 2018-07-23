@@ -4,7 +4,7 @@ title: CodeIgniter
 
 ## CodeIgniter
 
-{% include: toc.html %}
+{% include toc.html %}
 
 ### Weiterführende Informationen
 
