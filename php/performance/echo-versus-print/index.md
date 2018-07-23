@@ -21,13 +21,13 @@ Testumgebung: iMac, 2.8 GHz Intel Core i7, 4 GB RAM, Apache 2.0.63, PHP 5.2.11
   echo '<br>';
   echo $end - $start;
 ?>
-```php
+```
 
 ### Ergebnis für echo
 
 ```
 2.17717790604
-```php
+```
 
 ### Quelltext für print
 
@@ -48,9 +48,9 @@ Testumgebung: iMac, 2.8 GHz Intel Core i7, 4 GB RAM, Apache 2.0.63, PHP 5.2.11
 
 ### Ergebnis für print
 
-```php
+```
 2.27813196182
-```php
+```
 
 ### Weiterführende Informationen
 
