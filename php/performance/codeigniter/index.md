@@ -2,9 +2,9 @@
 title: CodeIgniter
 ---
 
-##CodeIgniter
+## CodeIgniter
 
-{% include: toc.md %}
+{% include: toc.html %}
 
 ### Weiterführende Informationen
 
