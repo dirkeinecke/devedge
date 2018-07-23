@@ -27,6 +27,7 @@ title: Mit und ohne Query Bindings
     }
   }
 ?>
+```
 
 ### Ergebnis ohne Query Bindings
 
