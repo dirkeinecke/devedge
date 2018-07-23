@@ -4,7 +4,9 @@ title: echo versus print
 
 ## echo versus print
 
-Testumgebung: iMac, 2.8 GHz Intel Core i7, 4 GB RAM, Apache 2.0.63, PHP 5.2.11
+### Testumgebung
+
+iMac, 2.8 GHz Intel Core i7, 4 GB RAM, Apache 2.0.63, PHP 5.2.11
 
 ### Quelltext für echo
 
