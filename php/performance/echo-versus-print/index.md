@@ -44,7 +44,7 @@ Testumgebung: iMac, 2.8 GHz Intel Core i7, 4 GB RAM, Apache 2.0.63, PHP 5.2.11
   echo '<br>';
   echo $end - $start;
 ?>
-```php
+```
 
 ### Ergebnis für print
 
