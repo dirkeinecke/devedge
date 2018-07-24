@@ -8,7 +8,7 @@
   {% assign sorted_pages = site.pages | sort:"path" %}
   {% for page in sorted_pages %}
     {% if page.path != originPagePath %}
-      {% if page.path contains pagePath %}
+      {% if page.path contains pagePath and page.path contains "/index.md" %}
         {% assign pagePathParts = page.path | split: "/" %}
         {% assign size = pagePathParts.size | minus: 1 %}
         {% if size <= originSize %}
