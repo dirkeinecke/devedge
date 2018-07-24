@@ -4,8 +4,6 @@ title: CSS
 
 ## CSS
 
-das ist `ein` test
-
 - [<hr> formatieren](hr-formatieren)
 - [Box-Shadow](box-shadow)
 - [Gepunktete Linie bei Input-Buttons entfernen](gepunktete-linie-bei-input-buttons-entfernen)
