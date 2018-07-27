@@ -6,6 +6,6 @@ title: Version des MySQL-Servers ermitteln
 
 Mit der folgenden Query kann man die Version des MySQL-Severs ermitteln:
 
-```mysql
+```sql
 SELECT @@VERSION
 ```
