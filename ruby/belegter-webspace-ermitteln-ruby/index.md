@@ -21,7 +21,7 @@ webspace = 0
 basicFolder = ENV['DOCUMENT_ROOT']
 Dir.chdir(basicFolder)
 Dir['**/*'].each do |filename|
-    webspace = webspace.to_f + File.stat(filename).size # in Byte
+  webspace = webspace.to_f + File.stat(filename).size # in Byte
 end
 
 if webspace >= 1099511627776
