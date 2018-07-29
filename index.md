@@ -48,4 +48,7 @@ Falls Du irgendwo einen Fehler findest oder eine bessere Lösung parat hast, dan
   <div class="col-12 col-md-4 col-lg-3 mb-4">
     <a itemprop="url" class="btn btn-light btn-lg btn-block pt-4 pb-4 border-bottom" href="google-mail" role="button">Google Mail</a>
   </div>
+  <div class="col-12 col-md-4 col-lg-3 mb-4">
+    <a itemprop="url" class="btn btn-light btn-lg btn-block pt-4 pb-4 border-bottom" href="google-text-und-tabellen" role="button">Google Text & Tabellen</a>
+  </div>
 </div>
