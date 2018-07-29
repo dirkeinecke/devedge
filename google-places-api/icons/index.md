@@ -33,3 +33,7 @@ title: Icons
 | ![Icon](https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png) | https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png |
 | ![Icon](https://maps.gstatic.com/mapfiles/place_api/icons/casino-71.png) | https://maps.gstatic.com/mapfiles/place_api/icons/casino-71.png |
 | ![Icon](https://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png) | https://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png |
+
+## Weiterführende Informationen
+
+- [Google Places API](https://cloud.google.com/maps-platform/places/){:target="_blank"}
