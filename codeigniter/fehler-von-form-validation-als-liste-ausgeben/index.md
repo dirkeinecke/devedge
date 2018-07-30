@@ -47,4 +47,4 @@ if ( isset($arr_errors) && is_array($arr_errors) && 0 < count($arr_errors) ) {
 
 ## Weiterführende Informationen
 
-- [CodeIgniter User Guide - Form Validation](https://codeigniter.com/user_guide/libraries/form_validation.html){}
+- [CodeIgniter User Guide - Form Validation](https://codeigniter.com/user_guide/libraries/form_validation.html){:target="_blank"}
