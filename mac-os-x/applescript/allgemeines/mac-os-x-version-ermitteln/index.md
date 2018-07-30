@@ -11,7 +11,7 @@ Wenn man die aktuell verwendete Mac OS X Version ermitteln möchte, dann kann ma
 ```applescript
 set osx_version to system version of (system info)
 display dialog osx_version buttons ("OK") default button 1
-```applescript
+```
 
 Eine weitere Möglichkeit ist diese:
 
