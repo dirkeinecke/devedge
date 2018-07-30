@@ -27,6 +27,7 @@ end tell
 
 Damit wird folgende Einstellung bearbeitet:
 
+![Adobe Photoshop: Voreinstellungen - Maßeinheiten & Lineale](Masseinheit-fuer-Linieale-in-Adobe-Photoshop-ermitteln-und-setzen.jpg)
 Adobe Photoshop: Voreinstellungen - Maßeinheiten & Lineale
 
 Dabei ist zu beachten, dass während der Ausführung der oben genannten Skripte der "Voreinstellungen"-Dialog von Adobe Photoshop geschlossen sein muss, da es sonst zu einem Script-Fehler kommt.
