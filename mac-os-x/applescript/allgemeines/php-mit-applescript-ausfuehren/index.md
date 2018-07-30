@@ -22,7 +22,7 @@ set myResult to do shell script myCmd
 set myCmd to "php -r \"echo time();\""
 set myResult to do shell script myCmd
 -- Ergebnis (zum Beispiel): "1259787423"
-```applescript
+```
 
 ### Siehe auch
 
