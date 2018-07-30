@@ -12,4 +12,6 @@ Wenn man den Color Picker (Palette "Fareben") starten möchte, dann kann man die
 choose color
 ```
 
-Screenshot: Color Picker (Palette "Farben")
+### Screenshot: Color Picker (Palette "Farben")
+
+![Screenshot: Color Picker (Palette "Farben")](Color-Picker-starten.jpg)
