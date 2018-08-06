@@ -18,6 +18,8 @@ end tell
 
 Dies hat den selben Effekt wie wenn man bei den Einstellungen ("Allgemein") des Finders die Checkbox "CDs, DVDs und iPods" deaktiviert.
 
+![Einstellungen des Finders](Wechselmedien-auf-dem-Schreibtisch-ausblenden.jpg)
+
 Möchte man die Wechselmedien auf dem Schreibtisch wieder einblenden, dann kann man dies wie folgt tun:
 
 ```applescript
