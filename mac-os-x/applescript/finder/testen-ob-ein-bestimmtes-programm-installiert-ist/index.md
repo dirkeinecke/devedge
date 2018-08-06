@@ -19,6 +19,6 @@ tell application "Finder"
     display dialog "Das Programm \"" & the_application & "\" ist installiert."
   end if
 end tell
+```
 
 In diesem Beispiel wird beispielhaft geprüft, ob der Apple Browser "Safari" vorhanden ist. Dabei geht das Script davon aus, dass sich das Programm im dafür vorgesehenden Standard-Programme-Verzeichnis von Mac OS X befindet.
-```
