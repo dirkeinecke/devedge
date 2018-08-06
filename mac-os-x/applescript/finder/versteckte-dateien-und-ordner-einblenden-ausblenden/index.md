@@ -26,4 +26,6 @@ delay 1
 tell application "Finder" to activate
 ```
 
-Screenshot
+### Screenshot
+
+![Dialog](Versteckte-Dateien-und-Ordner-einblenden-ausblenden.png)
