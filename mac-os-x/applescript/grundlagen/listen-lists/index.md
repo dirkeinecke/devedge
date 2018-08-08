@@ -49,7 +49,7 @@ set myList to {myString, "Ein String", 10, 23.5}
 set myList1 to {"Mac DevEdge", "Einfach mal weiterdenken."}
 set myList2 to {10, 20, 30}
 set myList to {myList1, myList2}
--- Ergebnis: &#123;&#123;"Mac DevEdge", "Einfach mal weiterdenken."}, {10, 20, 30&#125;&#125;
+-- Ergebnis: { {"Mac DevEdge", "Einfach mal weiterdenken."}, {10, 20, 30} }
 ```
 
 ### Zwei Listen kombinieren
