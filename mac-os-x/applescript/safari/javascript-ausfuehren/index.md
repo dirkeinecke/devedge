@@ -13,7 +13,8 @@ tell application "Safari"
   activate
   do JavaScript "document.title = 'Mac DevEdge'" in document 1
 end tell
-```applescript
+```
 
 Das Ergebnis könnte dann zum Beispiel so aussehen:
 
+![Browser](JavaScript-ausfuehren.jpg)
