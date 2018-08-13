@@ -12,5 +12,5 @@ Wenn man die URL des SeaMonkey-Browserfensters ermitteln möchte, dann kann man 
 tell application "SeaMonkey"
   set theURL to «class curl» of window 1
 end tell
--- Ergebnis z.B.: "http://www.seamonkey-project.org/"
+-- Ergebnis z. B.: "http://www.seamonkey-project.org/"
 ```
